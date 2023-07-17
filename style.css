@@ -1,0 +1,12 @@
+#textbox
+{
+    width: 250px; height: 40px;
+
+}
+
+body
+{
+    background-image: linear-gradient(to right top, #ffe600, #34d925, #00e1ff, #3235f0, #cc00ff);
+}
+
+
